@@ -75,7 +75,7 @@ typedef struct {
 
 ---
 
-##👨‍💻 Créditos
+## 👨‍💻 Créditos
 
 Desenvolvido por:
 💻 Isabela Marques Miletovic
